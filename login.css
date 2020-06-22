@@ -77,14 +77,18 @@ font-weight: bold;
     /* See the example at: https://developer.mozilla.org/en-US/docs/Web/CSS/calc */
     /* HINT: Calculate based on the padding of the `.btn` class */
     /* HINT: Examples are available at: https://glitch.com/~input-button-width */
-    width: 100%;
-    padding: 4px 4px 4px 4px;
-    margin-top: .5em;
-    margin-bottom: .5em;
-
     
+    padding: 8px 8px 8px 8px;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
 
+    width: 100%;
 
+    padding: 0px;
+    margin: 0px;
+
+ 
+    font-weight: bold;
 
 }
 

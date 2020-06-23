@@ -7,18 +7,52 @@ body, html {
 }
 
 .message-info {
-    background-color: blue;
-    border-radius: 15px;
+    background-color: #cddeff;
+    border-radius: 8px;
+    color: #7d7ec3;
+    width: 800px;
+    height: 20px;
+    padding: 5px;
+    text-align: left;
+    border-color: #e1e2e4;
+    margin: 10px;
 }
 
 .message-success {
-    background-color: green;
+    background-color: #cff3da;
+    border-radius: 8px;
+    color: #60a379;
+    width: 800px;
+    height: 20px;
+    padding: 5px;
+    text-align: left;
+    border-color: #e1e2e4;
+    margin: 10px;
+
 }
 
 .message-warning {
-    background-color: yellow;
+    background-color: #fcfbc9;
+    border-radius: 8px;
+    color: #9c8b2d;
+    width: 800px;
+    height: 20px;
+    padding: 5px;
+    text-align: left;
+    border-color: #e1e2e4;
+    margin: 10px;
+
 }
 
 .message-error {
-    background-color: red;
+    background-color: #fad3d7;
+    border-radius: 8px;
+    color: #9c4357;
+    width: 800px;
+    height: 20px;
+    padding: 5px;
+    text-align: left;
+    border-color: #e1e2e4;
+    margin: 10px;
+
 }
